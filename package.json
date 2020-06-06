@@ -113,13 +113,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/damassi/gatsby-starter-typescript-rebass-netlifycms"
+    "url": "https://github.com/nike8806/gatsby-starter-typescript-rebass-netlifycms.git"
   },
   "bugs": {
-    "url": "https://github.com/damassi/gatsby-starter-typescript-rebass-netlifycms/issues"
+    "url": "https://github.com/nike8806/gatsby-starter-typescript-rebass-netlifycms/issues"
   },
   "authors": [
-    "Christopher Pappas <damassi.pappas@gmail.com"
+    "Christopher Pappas <jhdezcruz@gmai.com"
   ],
   "keywords": [
     "Gatsby",
