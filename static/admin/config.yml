@@ -7,7 +7,7 @@ localhost_development:
 
 backend:
   name: github
-  repo: damassi/gatsby-typescript-netlify-starter
+  repo: nike8806/gatsby-starter-typescript-rebass-netlifycms
   branch: master
 
 display_url: http://localhost:8000
